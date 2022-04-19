@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <p>1.Create new branch</p>
       <p>2.Push another changes</p>
+      <p>3.Revert commit</p>
     </div>
   );
 }
